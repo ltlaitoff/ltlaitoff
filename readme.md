@@ -1,14 +1,16 @@
 # Hi, I'm Ivan👏
 
-<div style="display: flex; column-gap: 20px;">
+<div style="display: flex;">
 <a href="https://www.linkedin.com/in/ivan-shchedrovsky-9a526b234">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drawing" width="20"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drawing" height="20"/>
 </a>
+⠀
 <a href="https://t.me/ltlaitoff">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="drawing" width="20"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="drawing" height="20"/>
 </a>
+⠀
 <a href="https://djinni.co/q/e6fd91e272/">
-<img src="https://djinni.co/static/images/djinni-ukr-dark.svg" alt="drawing" heigth="20"/> 
+<img src="https://djinni.co/static/images/djinni-ukr-dark.svg" alt="drawing" height="20"/> 
 </a>
 </div>
 
