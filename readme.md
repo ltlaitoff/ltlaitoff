@@ -31,7 +31,7 @@ I'm studying at the Zaporizhzhia Electrical Technical Vocational College, majori
 
 On now i'm learning React(Redux, redux-saga), Typescript, and testing with jest
 
-🚩 ## Languages:
+## 🚩Languages:
 - 🇺🇸 English - B1 (Intermediate)
 - 🇺🇦 Ukrainian - native
 - 🏳‍⚧️ Russian - native
