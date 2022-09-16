@@ -1,4 +1,4 @@
-# Hi, I'm `Ivan`👏
+# Hi, I'm Ivan👏
 
 <div style="display: flex; column-gap: 20px;">
 <a href="https://www.linkedin.com/in/ivan-shchedrovsky-9a526b234">
