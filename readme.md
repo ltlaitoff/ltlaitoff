@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ltlaitoff&color=ff69b4) [![wakatime](https://wakatime.com/badge/user/8d08f782-1e26-465b-80a6-182bffe3949d.svg)](https://wakatime.com/@8d08f782-1e26-465b-80a6-182bffe3949d)
+
 # Hi, I'm Ivan👏
 
 ## About
