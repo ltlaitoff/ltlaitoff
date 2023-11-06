@@ -30,13 +30,26 @@ On now I'm learning Angular, Typescript, and testing with jest. Working on [lapr
 
 ## 🦝 Social
 
-- [Linkedin](https://www.linkedin.com/in/ivan-shchedrovsky-9a526b234)
-- [Telegram](https://t.me/ltlaitoff)
-- [Djinni](https://djinni.co/q/e6fd91e272/)
-- [GitLab](https://gitlab.com/ltlaitoff)
-- Email: ltlaitoff@gmail.com
+- <img src="https://raw.githubusercontent.com/ltlaitoff/ltlaitoff/main/icons8-linkedin.svg" width="20px" align="center"> :
+	[`Ivan Shchedrovskyi`][linkedin]
+- <img src="https://raw.githubusercontent.com/ltlaitoff/ltlaitoff/main/icons8-telegram.svg" width="20px" align="center"> :
+	[`@ltlaitoff`][telegram]
+- <img src="https://raw.githubusercontent.com/ltlaitoff/ltlaitoff/main/djinni.png" width="20px" align="center"> :
+	[`Ivan Shchedrovskyi`][djinni]
+- <img src="https://raw.githubusercontent.com/ltlaitoff/ltlaitoff/main/icons8-gitlab.svg" width="20px" align="center"> :
+	[`@ltlaitoff`][gitlab]
+- <img src="https://raw.githubusercontent.com/ltlaitoff/ltlaitoff/main/icons8-gmail.svg" width="20px" align="center"> :
+	[`ltlaitoff@gmail.com`][gmail]
 
-$\textcolor{gray}{\textsf{Updated: 16/09/2023}}$ 
+$\textcolor{gray}{\textsf{Updated: 6/11/2023}}$   $\textcolor{gray}{\textsf{| Icons from icons8}}$
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltlaitoff&show_icons=true&count_private=true&include_all_commits=false&theme=onedark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltlaitoff&layout=compact&theme=onedark) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+
+<!-- LINK DUMP -->
+
+[linkedin]: www.linkedin.com/in/ivan-shchedrovskyi
+[telegram]: https://t.me/ltlaitoff
+[djinni]: https://djinni.co/q/6df1f8d163/
+[gitlab]: https://gitlab.com/ltlaitoff
+[gmail]: mailto:ltlaitoff@gmail.com
