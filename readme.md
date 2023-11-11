@@ -43,12 +43,8 @@ On now I'm learning Angular, Typescript, and testing with jest. Working on [lapr
 
 $\textcolor{gray}{\textsf{Updated: 6/11/2023}}$   $\textcolor{gray}{\textsf{| Icons from icons8}}$
 
-<a href="https://github.com/ltlaitoff">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ltlaitoff&show_icons=true&count_private=true&include_all_commits=false&theme=catppuccin_latte" />
-</a>
-<a href="https://wakatime.com/@ltlaitoff">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ltlaitoff&layout=compact&hide_progress=false&langs_count=8&theme=catppuccin_latte&card_width=320" />
-</a>
+| <a href="https://github.com/ltlaitoff"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ltlaitoff&show_icons=true&count_private=true&include_all_commits=true&theme=vue&hide_border=true" alt="ltlaitoff's github stats" /></a> | <a href="https://wakatime.com/@ltlaitoff"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ltlaitoff&layout=compact&hide_progress=false&langs_count=8&theme=vue&card_width=320&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!-- LINK DUMP -->
 
