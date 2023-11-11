@@ -43,8 +43,12 @@ On now I'm learning Angular, Typescript, and testing with jest. Working on [lapr
 
 $\textcolor{gray}{\textsf{Updated: 6/11/2023}}$   $\textcolor{gray}{\textsf{| Icons from icons8}}$
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltlaitoff&show_icons=true&count_private=true&include_all_commits=false&theme=onedark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltlaitoff&layout=compact&theme=onedark) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+<a href="https://github.com/ltlaitoff">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ltlaitoff&show_icons=true&count_private=true&include_all_commits=false&theme=catppuccin_latte" />
+</a>
+<a href="https://wakatime.com/@ltlaitoff">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ltlaitoff&layout=compact&hide_progress=false&langs_count=8&theme=catppuccin_latte" />
+</a>
 
 <!-- LINK DUMP -->
 
