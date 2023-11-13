@@ -18,9 +18,9 @@ I'm studying at the National University "Zaporizhzhya Polytechnic", majoring in 
 - react-router, redux, redux-toolkit, redux-saga, vue-router, vuex, pinia
 - rxjs, ngrx-store, ngrx-effects, ngx-lottie
 - webpack, vite, axios, lootie-web, eslint, chart.js
-- Git, Storybook, , Google Identity
+- Git, Storybook, Google Identity
 
-On now I'm learning Angular, Typescript, and testing with jest. Working on [lapricot](https://gitlab.com/ltlaitoff/lapricot)
+On now I'm working on [WinWinTravel](https://www.linkedin.com/company/winwin-travel/) with typescript, react, Chakra UI, swiper, react-select, react-table and uselessdev/datepicker
 
 ## 🚩Languages:
 
