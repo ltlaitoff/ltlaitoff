@@ -48,7 +48,7 @@ $\textcolor{gray}{\textsf{Updated: 6/11/2023}}$   $\textcolor{gray}{\textsf{| Ic
 
 <!-- LINK DUMP -->
 
-[linkedin]: www.linkedin.com/in/ivan-shchedrovskyi
+[linkedin]: https://www.linkedin.com/in/ivan-shchedrovskyi
 [telegram]: https://t.me/ltlaitoff
 [djinni]: https://djinni.co/q/6df1f8d163/
 [gitlab]: https://gitlab.com/ltlaitoff
