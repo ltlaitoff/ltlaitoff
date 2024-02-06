@@ -15,12 +15,14 @@ I'm studying at the National University "Zaporizhzhya Polytechnic", majoring in 
 - JavaScript, TypeScript, nx, React, Vue, Angular
 - Node, NestJS, Express, NoSQL, MongoDB, mongoose
 - Jest, vitest, react-testing-library, vue-test-utils
-- react-router, redux, redux-toolkit, redux-saga, vue-router, vuex, pinia
+- react-router, react-query, react-select, zustand, redux, redux-toolkit, redux-saga,
+- vue-router, vuex, pinia
 - rxjs, ngrx-store, ngrx-effects, ngx-lottie
 - webpack, vite, axios, lootie-web, eslint, chart.js
+- Charka UI, Tailwind CSS, SCSS, BEM 
 - Git, Storybook, Google Identity
 
-On now I'm working on [WinWinTravel](https://www.linkedin.com/company/winwin-travel/) with typescript, react, Chakra UI, swiper, react-select, react-table and uselessdev/datepicker
+At the moment, I work at [WinWinTravel](https://www.linkedin.com/company/winwin-travel/) as a team leader and frontend developer. We utilize the following technologies: Typescript, react, zustand, react-query, Chakra UI, react-select, react-table, swiper and other
 
 ## 🚩Languages:
 
